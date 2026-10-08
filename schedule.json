@@ -1,0 +1,4 @@
+[
+  {"clip_path": "clip_01.mp4", "trim_start": 0.2, "duration": 2.0},
+  {"clip_path": "clip_02.mp4", "trim_start": 0.5, "duration": 1.0}
+]
